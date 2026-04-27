@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# My Project Specific Ignores
+data/
+*.csv
+.ipynb_checkpoints/
+venv/
