@@ -5,7 +5,7 @@
 
 ## Task 3: COP32 Climate Insights & Recommendations
 
-Based on the cross-country analysis of Ethiopia, Kenya, Sudan, Somalia, and Djibouti:
+Based on the cross-country analysis of Ethiopia, Kenya, Sudan, Nigeria, and Tanzania:
 
 * **Warming Trend:** [Insert Country Name, e.g., Sudan] showed the most aggressive warming trend, with average temperatures consistently 2-3°C higher than the regional average.
 * **Climate Vulnerability:** I recommend **[Insert Country]** for priority climate finance. Our data shows they recorded the highest frequency of extreme heat days ([X] days > 35°C), posing a severe risk to agriculture and health.
